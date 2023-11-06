@@ -44,6 +44,11 @@ button {
   border-radius: 0.5rem;
   padding: 1rem 4.5rem;
 }
+.container {
+  max-width: 1240px;
+  padding: 0 20px;
+  margin: 0 auto;
+}
 .flex-class {
   display: flex;
 }
